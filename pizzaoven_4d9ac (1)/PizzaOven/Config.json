@@ -1,0 +1,49 @@
+{
+  "Launcher": "C:\\Users\\benne\\Desktop\\Pizza.Tower.Gamdie.com (2)\\Pizza Tower\\PizzaTower.exe",
+  "FirstOpen": false,
+  "ModsFolder": "C:\\Users\\benne\\Desktop\\Pizza.Tower.Gamdie.com (2)\\Pizza Tower",
+  "ModList": [
+    {
+      "name": "Lap Hell Hotfix n\u0027 Ready With Crumbling",
+      "enabled": false,
+      "preview": "https://images.gamebanana.com/img/ss/mods/65299544bbd28.jpg"
+    },
+    {
+      "name": "LAP HELL - Hotfix n\u0027 Ready (HALLOWEEN UPDATE!)",
+      "enabled": false,
+      "preview": "pack://application:,,,/PizzaOven;component/Assets/PizzaOvenLogo.png"
+    },
+    {
+      "name": "Egg\u0027s Lap Mod",
+      "enabled": false,
+      "preview": "https://images.gamebanana.com/img/ss/mods/65538a4e35fa3.jpg"
+    },
+    {
+      "name": "Pizza Tower United",
+      "enabled": true,
+      "preview": "https://images.gamebanana.com/img/ss/mods/644ced837fa2b.jpg"
+    },
+    {
+      "name": "Lap 3 (\u002B Lap 4 \u0026 5) Mod for Pizza Tower United",
+      "enabled": false,
+      "preview": "https://images.gamebanana.com/img/ss/mods/6478b11b686a9.jpg"
+    },
+    {
+      "name": "Death Mode for Pizza Tower United (PTU)",
+      "enabled": false,
+      "preview": "https://images.gamebanana.com/img/ss/mods/6489c7d8b44df.jpg"
+    },
+    {
+      "name": "The Full Course",
+      "enabled": false,
+      "preview": "https://images.gamebanana.com/img/ss/mods/64bb3bfc2cacb.jpg"
+    }
+  ],
+  "LeftGridWidth": 1.8,
+  "RightGridWidth": 1,
+  "TopGridHeight": 1.6,
+  "BottomGridHeight": 1,
+  "Height": 750.4000000000001,
+  "Width": 1280,
+  "Maximized": false
+}
